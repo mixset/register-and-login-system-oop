@@ -1,7 +1,7 @@
 ## Register and login system 
 -----------------
 
-This is the simplest system of register & login. It consists of 4 main classes, template directory, config directory and 2 less importart files.
+This is the simplest system of register & login. It consists of 4 main classes, template directory, config directory and 2 less importart directories.
 
 How to install?
 -----------------

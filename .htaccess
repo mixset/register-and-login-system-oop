@@ -1,0 +1,5 @@
+# Blokada pliku config.ini
+
+<Files config.ini>
+Deny from all
+</Files>
